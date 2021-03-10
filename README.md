@@ -25,6 +25,8 @@ PandaVPN has over 1000 servers in 64 countries. It is registered in Seychelles s
 PandaVPN is featured with one-click connection. It only takes several seconds for one connection. It’s easy to use and it supports customized connection setting. The strong security and encryption of PandaVPN can protect your data from being hacked. Besides this, it is not so much expensive compared to other VPN.
 
 Cons
+
+
 Its money-back guarantee is only 7 days.
 
 https://pandavpnpro.com/
@@ -45,10 +47,14 @@ Money-return Guarantee: 30 days
 
 
 Pros
+
+
 NordVPN has over 5480 servers in over 60 countries, so wherever you are you can always find a server near you. It is also featured with adblocking and malware protection. If you happen to need this function NordVPN would be a good option. NordVPN also offers extensions for Firefox and Chrome.
 NordVPN uses the latest Wireguard technology and it has strong privacy and security. It encrypts your internet connection and keeps your browsing history private.  Thousands of VPN servers will make sure your Internet connection doesn’t suffer. Its fast connection and secure internet are good for remotely work.
 
 Cons
+
+
 You can not pay with Paypal.
 
 https://nordvpn.com/
