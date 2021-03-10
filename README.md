@@ -19,12 +19,12 @@ Security: No log policy
 Money-return Guarantee: 7 days
 
 
-Pros
+*Pros*
 
 PandaVPN has over 1000 servers in 64 countries. It is registered in Seychelles so it won’t be regulated by five eyes, and it makes its No log policy possible. We test over 10 countries and it is able to break geo-restriction successfully on Netflix, Hulu and more. We can watch Youtube in 1080P without buffering and its speed is great!
 PandaVPN is featured with one-click connection. It only takes several seconds for one connection. It’s easy to use and it supports customized connection setting. The strong security and encryption of PandaVPN can protect your data from being hacked. Besides this, it is not so much expensive compared to other VPN.
 
-Cons
+*Cons*
 
 
 Its money-back guarantee is only 7 days.
@@ -46,13 +46,13 @@ Security: No log policy
 Money-return Guarantee: 30 days
 
 
-Pros
+*Pros*
 
 
 NordVPN has over 5480 servers in over 60 countries, so wherever you are you can always find a server near you. It is also featured with adblocking and malware protection. If you happen to need this function NordVPN would be a good option. NordVPN also offers extensions for Firefox and Chrome.
 NordVPN uses the latest Wireguard technology and it has strong privacy and security. It encrypts your internet connection and keeps your browsing history private.  Thousands of VPN servers will make sure your Internet connection doesn’t suffer. Its fast connection and secure internet are good for remotely work.
 
-Cons
+*Cons*
 
 
 You can not pay with Paypal.
@@ -72,12 +72,12 @@ Security: No log policy
 
 Money-return Guarantee: 30 days
 
-Pros
+*Pros*
 
 ExpressVPN has over 3000 servers in 94 countries. We test it on Netflix and other videos platform and it works well. It is also doing well on customer service. It offers a 24/7 support team for any difficulty you might need.
 The speed of ExpressVPN is blazing fast, it is one of the fastest VPNs on the market. With high standard of encryption, ExpressVPN is proved to strictly enforce no log policy. Bitcoin can be used as a payment method and it’s convenient for those who don’t want to disclose their bank card number.
 
-Cons
+*Cons*
 
 ExpressVPN is really expensive and its price is almost twice as high as other VPNs. If you are sensitive about price maybe you want to take a look at other options.
 
@@ -98,12 +98,12 @@ Security: No log policy
 Money-return Guarantee: 30 days
 
 
-Pros
+*Pros*
 
 Surfshark has over 3200 servers in 65 countries. It is famous for its unlimited devices. Once you subscribe to Surfshark, your whole family’s devices can connect it.  Whitelister lets selected apps or websites bypass VPN connection. In addition to basic VPN services, Surfshark provides you with clean web by preventing malware or phishing attempts from getting to you. 
 Surfshark has an explicit privacy policy and it guarantees that it won’t keep users’ IP or browsing history,  and that’s assuring. We test on several devices and once we connected to a server, the original IP is hidden, so it’s basically reliable.
 
-Cons
+*Cons*
 
 If you don’t want a 2-year plan, Surfshark is kind of expensive for you. Note that Surfshark can only watch Amazon Prime Video on PC. 
 
@@ -123,13 +123,13 @@ Security: No log policy
 
 Money-return Guarantee: 45 days
 
-Pros
+*Pros*
 
 CyberGhost has over 7000 servers in 90 countries and its global network is one of the biggest among VPN services. Though the speed not fast as PandaVPN and NordVPN, it has great customer service live chat. Also it offers a super long 45 money-back guarantee. 
 Cyberghost has a strict no log policy, and it’s encrypted VPN tunnel secures your connection. Once you subscribe to Cyberghost, you can use it on up to 7 devices, and it’s enough for most users. The app’s design is simple and easy to use even for people who never tried VPN.
 
 
-Cons
+*Cons*
 
 The speed performance is not as good as the top 4 VPN.
 
