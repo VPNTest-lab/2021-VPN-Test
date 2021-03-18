@@ -21,8 +21,8 @@ There are a lot of VPN service providers on the market, and it’s impossible fo
 
 *Pros*
 
-PandaVPN has over 1000 servers in 64 countries. It is registered in Seychelles so it won’t be regulated by five eyes, and it makes its No log policy possible. We test over 10 countries and it is able to break geo-restriction successfully on Netflix, Hulu and more. We can watch Youtube in 1080P without buffering and its speed is great!
-PandaVPN is featured with one-click connection. It only takes several seconds for one connection. It’s easy to use and it supports customized connection setting. The strong security and encryption of PandaVPN can protect your data from being hacked. Besides this, it is not so much expensive compared to other VPN.
+PandaVPN has over 1000 servers in 64 countries. It is registered in Seychelles so it won’t be regulated by five eyes, and it makes its No log policy possible. We test over 10 countries and it is able to break geo-restriction successfully on Netflix, Hulu and more. We can watch Youtube in 1080P without buffering and its speed is great! The ping is also low when I play PUBG.
+PandaVPN is featured with one-click connection, and I am greatly satisfied with it because it only takes several seconds for one connection. It’s easy to use and it supports customized connection setting. The strong security and encryption of PandaVPN can protect your data from being hacked. Besides this, it is not so much expensive compared to other VPN. PandaVPN also has limited time offer from time to time, and you can get extra free time.  
 
 *Cons*
 
