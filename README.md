@@ -22,6 +22,8 @@ There are a lot of VPN service providers on the market, and it’s impossible fo
 *Pros*
 
 PandaVPN has over 1000 servers in 64 countries. It is registered in Seychelles so it won’t be regulated by five eyes, and it makes its No log policy possible. We test over 10 countries and it is able to break geo-restriction successfully on Netflix, Hulu and more. We can watch Youtube in 1080P without buffering and its speed is great! The ping is also low when I play PUBG.
+
+
 PandaVPN is featured with one-click connection, and I am greatly satisfied with it because it only takes several seconds for one connection. It’s easy to use and it supports customized connection setting. The strong security and encryption of PandaVPN can protect your data from being hacked. Besides this, it is not so much expensive compared to other VPN. PandaVPN also has limited time offer from time to time, and you can get extra free time.  
 
 *Cons*
@@ -50,6 +52,8 @@ https://pandavpnpro.com/
 
 
 NordVPN has over 5480 servers in over 60 countries, so wherever you are you can always find a server near you. It is also featured with adblocking and malware protection. If you happen to need this function NordVPN would be a good option. NordVPN also offers extensions for Firefox and Chrome.
+
+
 NordVPN uses the latest Wireguard technology and it has strong privacy and security. It encrypts your internet connection and keeps your browsing history private.  Thousands of VPN servers will make sure your Internet connection doesn’t suffer. Its fast connection and secure internet are good for remotely work.
 
 *Cons*
@@ -75,6 +79,8 @@ https://nordvpn.com/
 *Pros*
 
 ExpressVPN has over 3000 servers in 94 countries. We test it on Netflix and other videos platform and it works well. It is also doing well on customer service. It offers a 24/7 support team for any difficulty you might need.
+
+
 The speed of ExpressVPN is blazing fast, it is one of the fastest VPNs on the market. With high standard of encryption, ExpressVPN is proved to strictly enforce no log policy. Bitcoin can be used as a payment method and it’s convenient for those who don’t want to disclose their bank card number.
 
 *Cons*
@@ -101,6 +107,8 @@ https://www.expressvpn.com/
 *Pros*
 
 Surfshark has over 3200 servers in 65 countries. It is famous for its unlimited devices. Once you subscribe to Surfshark, your whole family’s devices can connect it.  Whitelister lets selected apps or websites bypass VPN connection. In addition to basic VPN services, Surfshark provides you with clean web by preventing malware or phishing attempts from getting to you. 
+
+
 Surfshark has an explicit privacy policy and it guarantees that it won’t keep users’ IP or browsing history,  and that’s assuring. We test on several devices and once we connected to a server, the original IP is hidden, so it’s basically reliable.
 
 *Cons*
@@ -126,6 +134,8 @@ https://surfshark.com/
 *Pros*
 
 CyberGhost has over 7000 servers in 90 countries and its global network is one of the biggest among VPN services. Though the speed not fast as PandaVPN and NordVPN, it has great customer service live chat. Also it offers a super long 45 money-back guarantee. 
+
+
 Cyberghost has a strict no log policy, and it’s encrypted VPN tunnel secures your connection. Once you subscribe to Cyberghost, you can use it on up to 7 devices, and it’s enough for most users. The app’s design is simple and easy to use even for people who never tried VPN.
 
 
